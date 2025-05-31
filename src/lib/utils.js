@@ -1,4 +1,5 @@
 import { routing } from '@/i18n/routing';
+import prisma from './client';
 
 export function slugify(text) {
   return text
