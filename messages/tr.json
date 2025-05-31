@@ -97,22 +97,22 @@
   },
   "AboutPage": {
     "title": "Ummeti Hakkında",
-    "description": "Ummeti, İslam ümmetinin sorunlarını desteklemeyi ve Filistin davasını savunmayı amaçlayan küresel bir kuruluştur.",
+    "description": "Allah’ın istediği İslam ümmetinin birliğine olan inancımızla ve mazlumların kardeşliği anlayışıyla hareket etmek amacıyla, Uluslararası Filistin ve Ümmeti Destekleme Derneği, başta Filistin olmak üzere, ümmetin meselelerini savunmayı ve haklarını korumayı hedeflemektedir. Dünyanın dört bir yanındaki çabaları birleştirerek enerjileri harekete geçirmeyi amaçlayan derneğimiz, Yüce Allah’ın şu ayetinden ilham almaktadır: ﴾ Şüphesiz, bu ümmetiniz bir tek ümmettir ve ben de Rabbinizim; o hâlde bana ibadet edin ﴿ Enbiya 92",
     "heroImageAlt": "Hakkımızda resmi",
     "secondImageAlt": "Ummeti",
     "stats": {
       "projects": "Projeler",
       "supporters": "Destekçiler",
-      "peopleServed": "Hizmet Edilen Kişiler"
+      "peopleServed": "Faydalananlar"
     },
     "sections": {
       "vision": {
         "title": "Ummeti'nin Vizyonu",
-        "content": "Kurumsal bir çerçeve içinde çalışan küresel bir organizasyon..."
+        "content": "Güçlü bir kurumsal yapıya sahip küresel bir organizasyon olarak, bireyler ve kuruluşlar için enerjileri en verimli şekilde yönlendirme ve kullanma konusunda öncü bir referans olmayı hedefliyoruz. Filistin davası başta olmak üzere, ümmetin meselelerine destek sağlamak için yenilikçi ve profesyonel yöntemlerle projeler üretmekte ve bu projelerin koordinasyonunu en üst seviyeye çıkarmaktayız."
       },
       "objectives": {
         "title": "Ummeti'nin Hedefleri",
-        "content": "İslam ümmetinin çabalarını birleştirmek ve koordine etmek..."
+        "content": "Filistin ve İslam davalarına yardım ve kültür konularında destek sağlamak için ülkenin enerjilerini toplamak, koordine etmek ve harekete geçirmek."
       },
       "uniqueness": {
         "title": "Ummeti'yi Farklı Kılan Nedir?",
