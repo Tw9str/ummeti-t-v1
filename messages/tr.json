@@ -14,51 +14,48 @@
     "donate": "Bağış Yap"
   },
   "HeroSection": {
-    "title": "Şimdi yardım eli ol",
-    "description": "Ulus için daha iyi bir gelecek inşa etmeye katkıda bulun",
+    "title": "Gelin omuz umuza verelim",
+    "description": "Ümmete daha iyi bir gelecek inşa etmek için sende katkıda bulun",
     "button": "Şimdi bağış yap"
   },
   "StatisticsSection": {
     "projects": "Projeler",
-    "supporters": "Destekçiler",
+    "supporters": "Bağışçılar",
     "served": "Faydalananlar",
     "ctaTitle": "Değişimin Bir Parçası Ol",
-    "ctaLink": "Gönüllü ol"
+    "ctaLink": "gönüllü Ol!"
   },
   "AboutSection": {
     "title": "Biz kimiz?",
-    "description": "Yönetim, mühendislik, muhasebe ve hukuk dahil olmak üzere çeşitli alanlardan genç profesyonellerden oluşan bir grubuz. Ortak ilgilerle bir araya gelen bizler, toplum üzerinde olumlu bir etki yaratma vizyonuyla birleştik.",
+    "description": "Allah’ın istediği İslam ümmetinin birliğine olan inancımızla ve mazlumların kardeşliği anlayışıyla hareket etmek amacıyla, Uluslararası Filistin ve Ümmeti Destekleme Derneği, başta Filistin olmak üzere, ümmetin meselelerini savunmayı ve haklarını korumayı hedeflemektedir. Dünyanın dört bir yanındaki çabaları birleştirerek enerjileri harekete geçirmeyi amaçlayan derneğimiz, Yüce Allah’ın şu ayetinden ilham almaktadır: ﴾ Şüphesiz, bu ümmetiniz bir tek ümmettir ve ben de Rabbinizim; o hâlde bana ibadet edin ﴿ Enbiya 92",
     "goals": {
       "vision": {
         "title": "Vizyonumuz",
-        "description": "Toplum hizmetinde öncü bir güç olmak, yeniliği teşvik etmek ve sürdürülebilir kalkınmayı desteklemek."
+        "description": "Güçlü bir kurumsal yapıya sahip küresel bir organizasyon olarak, bireyler ve kuruluşlar için enerjileri en verimli şekilde yönlendirme ve kullanma konusunda öncü bir referans olmayı hedefliyoruz. Filistin davası başta olmak üzere, ümmetin meselelerine destek sağlamak için yenilikçi ve profesyonel yöntemlerle projeler üretmekte ve bu projelerin koordinasyonunu en üst seviyeye çıkarmaktayız."
       },
       "mission": {
-        "title": "Misyonumuz",
+        "title": "Hedeflerimiz",
         "description": [
-          "Toplumsal ihtiyaçları karşılayan ve anlamlı değişimi sağlayan topluluk projeleri geliştirmek ve uygulamak.",
-          "Uzmanlık alışverişi yapmak ve en iyi uygulamaları benimsemek için yerel ve uluslararası kuruluşlarla ortaklık kurmak.",
-          "Üyelerimizi sürekli eğitim, beceri geliştirme ve profesyonel büyüme yoluyla güçlendirmek."
+          "Filistin ve İslam dünyasındaki adaletsizliklere karşı yardım ve kültürel destek sağlamak için ümmetin enerjisini bir araya getirmek, organize etmek ve yönlendirmek.",
+          "Sivil toplum kuruluşlarını, bireyleri, önemli şahsiyetleri ve alanında uzman kişileri bir araya getirerek ortak çalışmalar yürütmek."
         ]
       },
       "goals": {
-        "title": "Hedeflerimiz",
+        "title": "Ümmetim’in Ayrıcalıkları",
         "description": [
-          "Toplum bilincini artırmak ve gönüllülük kültürünü teşvik etmek.",
-          "Çeşitli sektörlerde sürdürülebilir kalkınma projeleri başlatmak.",
-          "Sosyal dayanışmayı teşvik etmek ve ihtiyaç sahiplerine destek sağlamak.",
-          "Gençler arasında yenilikçilik ve yaratıcılığı teşvik etmek.",
-          "Hem yerel hem de uluslararası düzeyde güçlü ortaklıklar kurmak."
+          "İnsan kaynaklarını en verimli şekilde kullanmak için modern küresel metodolojiler benimsemek.",
+          "Tüm faaliyetlerde en yüksek profesyonellik standartlarını uygulamak.",
+          "Projelerimiz ve sonuçları hakkında net bilgiler sunarak şeffaflığı teşvik etmek."
         ]
       },
       "values": {
-        "title": "Değerlerimiz",
+        "title": "Hedef Kitle",
         "description": [
-          "Tüm çabalarımızda dürüstlük ve şeffaflık.",
-          "Daha büyük etki yaratmak için işbirliği ve takım çalışması.",
-          "Mükemmelliğe ve anlamlı hedeflere ulaşmaya bağlılık.",
-          "Çeşitlilik, kapsayıcılık ve eşit fırsatlara saygı.",
-          "Yaşam boyu öğrenme ve sürekli kendini geliştirme."
+          "Savaş mağdurları.",
+          "Fakir ülkelerdeki ihtiyaç sahipleri.",
+          "Açlıkla mücadele eden bölgelerde yaşayanlar.",
+          "Hastalar ve yaralıla.",
+          "Yetim çocuklar ve ailesiz kalanlar."
         ]
       }
     }
